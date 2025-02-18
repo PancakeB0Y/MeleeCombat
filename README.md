@@ -12,7 +12,7 @@ Made in Unreal Engine 5
 - **Player**
   1. Attacking (LMB)
   2. Blocking (RMB)  
-- **Enemies** Enemies choose one of the two options randomly
+- **Enemies** They choose one of the two options randomly
   1. Attacking
   2. Blocking 
 
